@@ -1,0 +1,8 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+    height: 82vh;
+    border: 3px solid;
+    border-color: #1F60D6;
+}

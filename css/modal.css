@@ -1,0 +1,22 @@
+.pop img {
+    width: 400px;
+    height: 550px;
+    display: block;
+    margin: 0 auto;
+}
+
+.modal-body img .imagepreview {
+    width: 100%;
+    border: solid #F6C200;
+}
+
+.refer_photo p {
+    text-align: center;
+    border-bottom: 5px solid #1F60D6;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+.pop img:hover {
+    transition: .4s;
+    color: rgba(0,0,0,0.3);
+}
